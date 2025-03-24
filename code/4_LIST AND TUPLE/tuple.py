@@ -1,0 +1,10 @@
+data=(23,34,55,66,77,88,99,100,200,300,400,500,600,700,800,900,1000)
+print(data)
+print(data[6])
+a=data.index(1000)
+print(a)
+a,b,c,d = data
+print(a)
+print(b)
+print(c)
+print(d)
